@@ -52,6 +52,7 @@
 						<execution>
 							<goals>
 								<goal>compile</goal>
+								<encode>UTF-8</encode>
 							</goals>
 							
 						</execution>
